@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="picture">
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+    </integer-array>
+    <string-array name="mouse" >
+        <item>asdasdasd</item>
+        <item>jowie</item>
+        <item>razer</item>
+    </string-array>
+
+    <string-array name="monitor" >
+        <item>LG</item>
+        <item>Benqu</item>
+        <item>Hansung</item>
+    </string-array>
+
+
+
+</resources>
